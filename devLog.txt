@@ -1,0 +1,2 @@
+08.02.2026  DD/MM/YYYY
+	* Created file structure of game? including headers and other files(like graphics.c)	
